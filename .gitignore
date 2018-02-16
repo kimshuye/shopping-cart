@@ -1,7 +1,6 @@
 # dependencies
 /node_modules
+/function/node_modules
 
 # cinfig file
-test-firebaseexpress-service_key.json
-test-cee590a82269.json
-
+servicesKey.json
